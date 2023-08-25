@@ -1,4 +1,4 @@
-# DataProvenance And Assurance Framework Using Ethereum Blockchain
+# Data Provenance Assurance Using Ethereum Blockchain
 The Data Provenance and Assurance Framework is employed to check the provenance of a document previously uploaded by a user. It verifies whether the data has been altered and preserves these details on the immutable and distributed Ethereum Blockchain Network. The web application's front-end was developed using React, while the smart contracts were authored in Solidity. IPFS is utilized to generate a hash value for the file, which is subsequently stored on the Ethereum blockchain.
 ## Objectives
 * To develop a data provenance assurance framework for the cloud environment by integrating Ethereum Blockchain and IPFS.
@@ -24,4 +24,7 @@ The Data Provenance and Assurance Framework is employed to check the provenance 
 ## Architecture Design
 
 ![Screenshot (5)](https://github.com/Yashvardhan-17/DataProvenance/assets/119247530/98a530fc-2e5e-401b-9b69-af75abda3e4d)
+
+## Future Scope
+The future scope of this project would be to develop the data provenance for multi-cloud platform.
 
